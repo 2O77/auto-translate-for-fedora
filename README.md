@@ -37,6 +37,7 @@ To simplify the problem, I recommend using a Chrome extension called "Tab Wrangl
 # Required Downloads
 
 xdotool --> sudo apt-get install xdotool
+
 Google Chrome --> install basic chrome browser
 
 
