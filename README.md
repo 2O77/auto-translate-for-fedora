@@ -34,8 +34,9 @@ In this application, every time you execute the code, it opens a new tab in Chro
 
 To simplify the problem, I recommend using a Chrome extension called "Tab Wrangler" to automatically close existing tabs. It is a free extension and works fine.
 
+# Required Downloads
 
-
+Google Chrome (lol)
 
 
 
