@@ -2,15 +2,23 @@
 
 i've made this for my own requirements. 
 
-usage is so simple. download this repo and enter -->
+# usage is so simple. download this repo and enter -->
 
-settings/keyboard/view and customize shortcuts/custom shortcuts
+fedora settings/keyboard/view and customize shortcuts/custom shortcuts
 
-in there you can create any shortcut you want. and type this command to shortcut -->
+# in there create a shortcut and type this command. -->
 
 gnome-terminal -e "/path/to/file/auto-translate-for-fedora/google-translate.sh"
 
 and it's done. now you can translate any text with one shorcut. 
+
+# you have to give permission to file -->
+
+cd /path/to/file
+
+chmod +x google-translate.sh
+
+
 
 
 
