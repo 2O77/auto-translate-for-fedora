@@ -3,6 +3,7 @@
 I created this project to fulfill my own requirements.
 
 Usage is very simple. Follow the steps below:
+Download this file.
 Go to Fedora Settings/Keyboard/View and Customize Shortcuts/Custom Shortcuts.
 
 # Create a new shortcut and type the following command:
