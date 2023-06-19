@@ -18,6 +18,15 @@ cd /path/to/file
 
 chmod +x google-translate.sh
 
+# advices -->
+
+in this app, every time you execute the code is opens a new tab on chrome. 
+i couldn't find a way to handle "if there is 1 or more google translae is open" don't open a new tab,
+just send a query to existing tab. 
+
+It is just complicates the problem unnecesarly. So i'm using tab wrangler to close existing tab.
+it is free chrome extension and works fine. 
+
 
 
 
