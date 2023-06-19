@@ -1,31 +1,35 @@
-# auto-translate-for-fedora
+# Auto Translate for Fedora
 
-i've made this for my own requirements. 
+I created this project to fulfill my own requirements.
 
-# usage is so simple. download this repo and enter -->
+Usage is very simple. Follow the steps below:
+Go to Fedora Settings/Keyboard/View and Customize Shortcuts/Custom Shortcuts.
 
-fedora settings/keyboard/view and customize shortcuts/custom shortcuts
-
-# in there create a shortcut and type this command. -->
+@ Create a new shortcut and type the following command:
 
 gnome-terminal -e "/path/to/file/auto-translate-for-fedora/google-translate.sh"
+Note: Replace /path/to/file with the actual path where the project is located.
 
-and it's done. now you can translate any text with one shorcut. 
+# Setting File Permissions
+To execute the script, you need to give executable permission to the script file. Follow the steps below:
 
-# you have to give permission to file -->
+Open a terminal.
+
+Navigate to the directory where the script file is located:
 
 cd /path/to/file
+Note: Replace /path/to/file with the actual path where the script file is located.
+
+# Give executable permission to the script file:
 
 chmod +x google-translate.sh
 
-# advices -->
+# Advice
+In this application, every time you execute the code, it opens a new tab in Chrome. I couldn't find a way to handle the scenario where "if there is already one or more Google Translate tabs open, don't open a new tab, just send a query to the existing tab."
 
-in this app, every time you execute the code is opens a new tab on chrome. 
-i couldn't find a way to handle "if there is 1 or more google translae is open" don't open a new tab,
-just send a query to existing tab. 
+To simplify the problem, I recommend using a Chrome extension called "Tab Wrangler" to automatically close existing tabs. It is a free extension and works fine.
 
-It is just complicates the problem unnecesarly. So i'm using tab wrangler to close existing tab.
-it is free chrome extension and works fine. 
+
 
 
 
