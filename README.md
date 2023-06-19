@@ -8,6 +8,7 @@ Go to Fedora Settings/Keyboard/View and Customize Shortcuts/Custom Shortcuts.
 # Create a new shortcut and type the following command:
 
 gnome-terminal -e "/path/to/file/auto-translate-for-fedora/google-translate.sh"
+
 Note: Replace /path/to/file with the actual path where the project is located.
 
 # Setting File Permissions
@@ -18,9 +19,11 @@ Open a terminal.
 Navigate to the directory where the script file is located:
 
 cd /path/to/file
+
 Note: Replace /path/to/file with the actual path where the script file is located.
 
 Give executable permission to the script file:
+
 chmod +x google-translate.sh
 
 # Advice
