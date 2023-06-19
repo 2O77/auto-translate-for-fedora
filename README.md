@@ -1,7 +1,5 @@
 # auto-translate-for-fedora
 
-https://github.com/2O77/auto-translate-for-fedora/blob/main/Screencast%20from%202023-06-18%2022-10-00.webm
-
 i've made this for my own requirements. 
 
 # usage is so simple. download this repo and enter -->
